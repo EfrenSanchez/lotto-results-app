@@ -1,0 +1,26 @@
+.main-container {
+  padding: 2rem;
+}
+
+.nav {
+  margin: 3rem;
+  text-align: right;
+}
+
+.nav gh-dropdown {
+  box-shadow: 1px 1px 3px 0px #0a0a0aa8;
+  display: block;
+  width: min-content;
+  margin: 0 0 0 auto;
+  border-radius: 8px;
+}
+
+.hero {
+  min-width: 290px;
+  position: relative;
+  display: flex;
+  min-height: 70vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
